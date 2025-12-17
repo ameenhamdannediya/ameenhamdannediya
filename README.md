@@ -1,8 +1,8 @@
+## ABOUT ME
 - 👋 Hi, I’m ameen
 - 👀 I’m a web developer,
 - 🎬 a 3D artist,
 - 🎥 and a visual effects artist and that's it for now :)
-
 
 ## WHAT I POST HERE 
 - here i post most of my experimental stuff and all kinda stuff , 
@@ -16,7 +16,8 @@
 - defnitly check that account too
 
 ## INSTAGRAM [@ameenhamdannediya](https://www.instagram.com/ameenhamdannediya/)
-- i  post almost most of my 3d renders, animation, stuf that i successfully created
+- i  post almost most of my 3d renders, animation,
+- only stuf that i successfully created/completed
 
 ## [YOUTUBE](https://www.youtube.com/@coolguy-o2r) 
 - on youtube i post all visual art/projects i did , 
