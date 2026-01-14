@@ -8,15 +8,8 @@
 - 🎥 and a visual effects artist and that's it for now :)
 
 ## WHAT I POST HERE 
-- here i post most of my experimental stuff and all kinda stuff , 
-- it chaotic and unprofessional so i have this second account.
+- here i post most of my experimental stuff and all kinda stuff 
 
-## SECOND ACCOUNT [@archlinuxwithniri](https://github.com/archlinuxwithniri) 
-- this is my other acount 
-- where i post all of my projects and other stuff 
-- things that i did and are doing while i do my degree in cs 
-- and am trying to keep it as professional as possible
-- defnitly check that account too
 
 
 ## [INSTAGRAM @ameenhamdannediya](https://www.instagram.com/ameenhamdannediya/)
