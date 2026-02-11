@@ -3,9 +3,10 @@
 
 ## ABOUT ME
 - 👋 Hi, I’m ameen
-- 👀 I’m a web developer,
-- 🎬 a 3D artist,
-- 🎥 and a visual effects artist and that's it for now :)
+- 👀 I’m a web developer in react.js,
+- 🎬 a 3D artist specialised in blender ,
+- 🎥 and a visual effects artist 
+
 
 ## WHAT I POST HERE 
 - here i post most of my experimental stuff and all kinda stuff 
