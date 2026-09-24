@@ -13,7 +13,7 @@
 
 
 
-## [INSTAGRAM @ameenhamdannediya](https://www.instagram.com/ameenhamdannediya/)
+## [INSTAGRAM](https://www.instagram.com/ameenhamdannediya/)
 ##### What's there
 - i  post almost most of my 3d renders, animation,
 - only stuf that i successfully created/completed
